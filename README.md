@@ -2,6 +2,12 @@
 
 基于 [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) 的专业级语义分割标注平台，支持多类别、多种交互方式，适合科研与工业数据标注场景。
 
+## 界面预览
+
+> 典型标注界面如下图所示：
+
+![界面预览](pic1.jpg)
+
 ## 功能亮点
 
 - 🖱️ **点交互标注**：支持正点/负点交互，快速获得高质量分割
@@ -44,11 +50,6 @@ python app.py
 http://localhost:5000
 ```
 
-## 界面示意
-
-下图展示了本工具的主要界面：
-
-![界面示意](pic1)
 
 ## 使用说明
 
