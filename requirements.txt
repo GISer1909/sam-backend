@@ -1,0 +1,6 @@
+flask
+numpy>=1.20.0
+torch>=1.7.1
+opencv-python>=4.5.1
+segment-anything
+pillow>=8.0.0
