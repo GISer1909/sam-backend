@@ -44,6 +44,12 @@ python app.py
 http://localhost:5000
 ```
 
+## 界面示意
+
+下图展示了本工具的主要界面：
+
+![界面示意](pic1)
+
 ## 使用说明
 
 ### 标注流程
@@ -108,4 +114,4 @@ sam-backend/
 
 ---
 
-如有建议或问题，欢迎提交 [Issue](https://github.com/your-repo/issues) 或 PR！
+如有建议或问题，欢迎提交 [Issue](https://github.com/GISer1909/sam-backend/issues) 或 PR！
